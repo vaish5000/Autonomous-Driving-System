@@ -15,3 +15,6 @@ The project is about building a simulated version of self-driving car in a 3D en
 ## Procedure for building the model and running the project
 1) To begin we you need to have anconda and Car simulator from following link: https://github.com/udacity/self-driving-car-sim.
 2) Now we have to open the simulator and select training mode.
+3) Now press the R button to start recording and drive the car with arrow key.
+4) This will start the capturing of data.
+5) After you are done press R again
